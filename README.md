@@ -6,9 +6,9 @@ These are the projects from HackingWithSwift.com
 
 
 
-| Project #  | Completed ✅  | Comments  |
+| Project #  | Completed  ✅ | Comments  |
 |---|:-:|---|
-| 1  |   |   |
+| 1  |  ✅ |   |
 | 2  |   |   |
 | 3  |   |   |
 | 4  |   |   |
