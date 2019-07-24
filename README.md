@@ -8,10 +8,10 @@ These are the projects from HackingWithSwift.com
 
 | Project #  | Completed  ✅ | Comments  |
 |---|:-:|---|
-| 1  |   ✅|   |
-| 2  |  ✅|   |
+| 1  |  ✅ |   |
+| 2  |  ✅ |   |
 | 3  |  ✅ |   |
-| 4  |   |   |
+| 4  |  ✅ |   |
 | 5  |   |   |
 | 6  |   |   |
 | 7  |   |   |
