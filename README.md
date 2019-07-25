@@ -8,11 +8,11 @@ These are the projects from HackingWithSwift.com
 
 | Project #  | Completed  ✅ | Comments  |
 |---|:-:|---|
-| 1  |  ✅ |   |
-| 2  |  ✅ |   |
-| 3  |  ✅ |   |
-| 4  |  ✅ |   |
-| 5  |   |   |
+| 1  | ✅ |   |
+| 2  | ✅ |   |
+| 3  | ✅ |   |
+| 4  | ✅ |   |
+| 5  | ✅ |   |
 | 6  |   |   |
 | 7  |   |   |
 | 8  |   |   |
