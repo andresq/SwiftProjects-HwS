@@ -1,5 +1,5 @@
 # SwiftProjects-HwS
-These are the projects from HackingWithSwift.com
+My progress with  projects from HackingWithSwift.com
 
 
 
