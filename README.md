@@ -14,7 +14,7 @@ My progress with  projects from HackingWithSwift.com
 | 4  | ✅ |   |
 | 5  | ✅ |   |
 | 6  | ✅ |   |
-| 7  |   |   |
+| 7  | ✅ |   |
 | 8  |   |   |
 | 9  |   |   |
 | 10  |   |   |
