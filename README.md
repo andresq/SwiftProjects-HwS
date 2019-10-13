@@ -15,8 +15,8 @@ My progress with  projects from HackingWithSwift.com
 | 5  | ✅ |   |
 | 6  | ✅ |   |
 | 7  | ✅ |   |
-| 8  |   |   |
-| 9  |   |   |
+| 8  | ✅ |   |
+| 9  | ✅ | Project 9 is an updated Project 7 with GCD threads |
 | 10  |   |   |
 | 11  |   |   |
 | 12  |   |   |
