@@ -14,7 +14,8 @@ class ViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        // aparently this is needed because typing "Cell" in Identifier does not work anymore?
+        tableView.register(UITableViewCell.self, forCellReuseIdentifier: "Cell")
         
         let urlString: String
 
