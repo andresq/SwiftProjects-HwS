@@ -19,7 +19,7 @@ My progress with  projects from HackingWithSwift.com
 | 9  | ✅ | Project 9 is an updated Project 7 with GCD threads |
 | 10  | ✅ |   |
 | 11  | ✅ |   |
-| 12  | ✅ | Project 12 is updating Project 10 with UserDefaults (a:NSCodeing, b:Codable  |
+| 12  | ✅ | Project 12 is updating Project 10 with UserDefaults (a:NSCodeing, b:Codable) |
 | 13  |   |   |
 | 14  |   |   |
 | 15  |   |   |
