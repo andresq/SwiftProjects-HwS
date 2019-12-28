@@ -21,7 +21,7 @@ My progress with  projects from HackingWithSwift.com
 | 11  | ✅ |   |
 | 12  | ✅ | Project 12 is updating Project 10 with UserDefaults (a:NSCoding, b:Codable) |
 | 13  | ✅ |   |
-| 14  |   |   |
+| 14  | ✅ |   |
 | 15  |   |   |
 | 16  |   |   |
 | 17  |   |   |
