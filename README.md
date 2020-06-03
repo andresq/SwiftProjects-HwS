@@ -25,8 +25,8 @@ My progress with  projects from HackingWithSwift.com
 | 15  | ✅ |   |
 | 16  | ✅ | Project 16 has some extra code playing around with SF Symbols   |
 | 17  | ✅ |   |
-| 18  |   |   |
-| 19  |   |   |
+| 18  | ✅ | Project 18 is debugging tactics  |
+| 19  | ✅ |   |
 | 20  |   |   |
 | 21  |   |   |
 | 22  |   |   |
