@@ -28,7 +28,7 @@ My progress with  projects from HackingWithSwift.com
 | 18  | ✅ | Project 18 is debugging tactics  |
 | 19  | ✅ |   |
 | 20  | ✅ |   |
-| 21  |   |   |
+| 21  | ✅ |   |
 | 22  |   |   |
 | 23  |   |   |
 | 24  |   |   |
