@@ -30,7 +30,7 @@ My progress with  projects from HackingWithSwift.com
 | 20  | ✅ |   |
 | 21  | ✅ |   |
 | 22  | ✅ |   |
-| 23  |   |   |
+| 23  | ✅ |   |
 | 24  |   |   |
 | 25  |   |   |
 | 26  |   |   |
