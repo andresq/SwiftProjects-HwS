@@ -32,7 +32,7 @@ My progress with  projects from HackingWithSwift.com
 | 22  | ✅ |   |
 | 23  | ✅ |   |
 | 24  | ✅ | Project 24 is a playground file  |
-| 25  |   |   |
+| 25  | ✅ |   |
 | 26  |   |   |
 | 27  |   |   |
 | 28  |   |   |
