@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="84u-Ld-ece">
+    <device id="ipad11_0rounded" orientation="portrait" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Project31" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="834" height="1194"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Kci-LN-995">
+                                <rect key="frame" x="5" y="55" width="824" height="34"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <connections>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="KUV-fE-98G"/>
+                                </connections>
+                            </textField>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="Owt-or-l7i">
+                                <rect key="frame" x="0.0" y="94" width="834" height="1080"/>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Owt-or-l7i" secondAttribute="bottom" id="5xy-be-yqC"/>
+                            <constraint firstItem="Owt-or-l7i" firstAttribute="top" secondItem="Kci-LN-995" secondAttribute="bottom" constant="5" id="O2G-y8-0EY"/>
+                            <constraint firstItem="Owt-or-l7i" firstAttribute="top" secondItem="Kci-LN-995" secondAttribute="bottom" constant="5" id="OfM-ra-wPu"/>
+                            <constraint firstItem="Kci-LN-995" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="5" id="UIU-lI-tWd"/>
+                            <constraint firstItem="Kci-LN-995" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="5" id="Zn9-Ph-asS"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Owt-or-l7i" secondAttribute="trailing" id="gd6-Bm-Etm"/>
+                            <constraint firstItem="Owt-or-l7i" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="ktT-NY-TBM"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Kci-LN-995" secondAttribute="trailing" constant="5" id="ptg-PN-Jw0"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="RI1-Su-TIC"/>
+                    <connections>
+                        <outlet property="addressBar" destination="Kci-LN-995" id="c4T-Gz-scT"/>
+                        <outlet property="stackView" destination="Owt-or-l7i" id="s1L-qJ-byK"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="885.61151079136698" y="138.69346733668343"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="g0b-7q-rKD">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="84u-Ld-ece" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="cea-ax-gIk">
+                        <rect key="frame" x="0.0" y="0.0" width="834" height="50"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="0NK-Wx-Gfg"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="oul-Le-sYa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="131.65467625899282" y="138.69346733668343"/>
+        </scene>
+    </scenes>
+</document>
