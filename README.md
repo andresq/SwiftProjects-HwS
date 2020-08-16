@@ -39,8 +39,7 @@ My progress with  projects from HackingWithSwift.com
 | 29  | ✅ |   |
 | 30  | ✅ | app given to debug via Instruments |
 | 31  | ✅ |   |
-| 31  |   |   |
-| 32  |   |   |
+| 32  | ✅ |   |
 | 33  |   |   |
 | 34  |   |   |
 | 35  |   |   |
